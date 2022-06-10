@@ -1,0 +1,12 @@
+@charset "UTF-8";
+.button {
+  background-color: #1755aa;
+  padding-top: 30px;
+  display: flex;
+  justify-content: space-evenly;
+}
+form{
+	text-align: center;
+	margin-top: 50px;
+}
+

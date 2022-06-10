@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.button{
+  background:#1E90FF;
+  padding:1em 1em;
+  border:black 2px solid;
+  text-decoration:none;
+  font-size:1.5em;
+}
+.inline-block{
+  display:inline-block;
+}
+
+
